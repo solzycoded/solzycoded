@@ -52,8 +52,8 @@ I'm currently seeking:
 
 ### 📌 GitHub Stats
 
-![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solomonfidelis&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomonfidelis&layout=compact&theme=tokyonight)
+![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=solzycoded&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solzycoded&layout=compact&theme=tokyonight)
 
 ---
 
