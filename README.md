@@ -8,7 +8,7 @@ I'm a passionate **Software Developer** with a Master's degree in Software Devel
 - 🌐 **Front-End Exposure:** Vue.js, React.js, Bootstrap, Tailwind CSS, jQuery, Alpine.js
 - 💡 **Other Tech:** C#, Java, JavaFX, WPF, Python, Microsoft Lists and Power Automate
 
-I'm currently transitioning from the **WAMP** stack to the **MERN** stack and building projects that showcase this shift, including an auction system I'm refactoring using **TypeScript, Node.js, React, and Tailwind CSS** — documented regularly on [LinkedIn](https://www.linkedin.com/in/solomon-fidelis/).
+I'm currently transitioning from the **WAMP** stack to the **MERN** stack and building projects that showcase this shift, including an auction system I'm refactoring using **TypeScript, Node.js, React, and Tailwind CSS** — documented regularly on [LinkedIn](https://www.linkedin.com/in/solomon-fidelis-7a80b9132/).
 
 ---
 
