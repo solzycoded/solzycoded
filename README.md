@@ -38,8 +38,8 @@ I'm currently seeking:
 ---
 
 ### 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/solomon-fidelis/)
-- [GitHub Projects](https://github.com/solomonfidelis)
+- [LinkedIn](https://www.linkedin.com/in/solomon-fidelis-7a80b9132/)
+- [GitHub Projects](https://github.com/solzycoded?tab=projects)
 
 ---
 
