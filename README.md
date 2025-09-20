@@ -72,4 +72,4 @@ I'm currently seeking:
 
 ---
 
-🧠 *“Stay curious. Keep building. Always iterate.”*
+🧠 *“GET BETTER! Iterate: Plan -> Build -> Test -> Review -> Repeat”*
