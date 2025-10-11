@@ -3,7 +3,7 @@
 ### 💻 About Me
 I'm a passionate **Software Developer** with a Master's degree in Software Development from Coventry University. My focus lies in **Back-End Development**, and I bring experience across several tech stacks including:
 
-- 🔧 **Proficient in:** PHP, Laravel, JavaScript, Node.js, Express, MySQL, MongoDB, PostgreSQL
+- 🔧 **Proficient in:** PHP, Laravel, JavaScript, Typescript, Node.js, Express, MySQL, MongoDB, PostgreSQL
 - ⚙️ **Experienced with:** REST APIs, GraphQL, CI/CD pipelines, TDD, Database design, SCRUM, Azure DevOps
 - 🌐 **Front-End Exposure:** Vue.js, React.js, Bootstrap, Tailwind CSS, jQuery, Alpine.js
 - 💡 **Other Tech:** C#, Java, JavaFX, WPF, Python, Microsoft Lists and Power Automate
@@ -22,17 +22,15 @@ I'm currently transitioning from the **WAMP** stack to the **MERN** stack and bu
 ---
 
 ### 🧠 Currently Learning
-- 🟨 TypeScript
 - 🟢 Advanced Node.js Patterns
-- 🌿 React Hooks and Context
-- ⚛️ GraphQL with Apollo Server and Client
+- 🌿 Advanced React
 - 📈 System Design and Scalable Architectures
 
 ---
 
 ### 🎯 Career Goals
 I'm currently seeking:
-- 🧑‍💻 Back-End Developer roles (Node.js, TypeScript, GraphQL, Express)
+- 🧑‍💻 Back-End Developer roles (Node.js, TypeScript, GraphQL, MongoDB/MySQL and Express)
 - 🌐 Full-Stack Developer roles (MERN stack)
 
 ---
