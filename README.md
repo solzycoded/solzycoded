@@ -13,9 +13,7 @@ I'm currently transitioning from the **WAMP** stack to the **MERN** stack and bu
 ---
 
 ### 👨‍💻 What I'm Working On
-- 🧑🏽‍💻 Acquring a SCRUM Master Certification
-- 🚀 Rebuilding an auction platform as a full-stack MERN application
-- 🔧 Improving my TypeScript and GraphQL skills
+- 🚀 Rebuilding an auction platform as a full-stack MERN and Typescript application.
 - 📚 Practicing Test-Driven Development and software design principles
 - 🧑‍💻 Preparing for opportunities as a **Back-End Developer** (Node.js/TypeScript/GraphQL) or **Full-Stack MERN Developer**
 
@@ -32,12 +30,14 @@ I'm currently transitioning from the **WAMP** stack to the **MERN** stack and bu
 I'm currently seeking:
 - 🧑‍💻 Back-End Developer roles (Node.js, TypeScript, GraphQL, MongoDB/MySQL and Express)
 - 🌐 Full-Stack Developer roles (MERN stack)
+- 🧑‍💻 Scrum Master roles
 
 ---
 
 ### 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/solomon-fidelis-7a80b9132/)
 - [GitHub Projects](https://github.com/solzycoded?tab=projects)
+- [My Website](https://solomonfidelis.dev)
 
 ---
 
