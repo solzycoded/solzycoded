@@ -6,9 +6,7 @@ I'm a passionate **Software Developer** with a Master's degree in Software Devel
 - 🔧 **Proficient in:** PHP, Laravel, JavaScript, Typescript, Node.js, Express, MySQL, MongoDB, PostgreSQL
 - ⚙️ **Experienced with:** REST APIs, GraphQL, CI/CD pipelines, TDD, Database design, SCRUM, Azure DevOps
 - 🌐 **Front-End Exposure:** Vue.js, React.js, Bootstrap, Tailwind CSS, jQuery, Alpine.js
-- 💡 **Other Tech:** C#, Java, JavaFX, WPF, Python, Microsoft Lists and Power Automate
-
-I'm currently transitioning from the **WAMP** stack to the **MERN** stack and building projects that showcase this shift, including an auction system I'm refactoring using **TypeScript, Node.js, React, and Tailwind CSS** — documented regularly on [LinkedIn](https://www.linkedin.com/in/solomon-fidelis-7a80b9132/).
+- 💡 **Other Tech:** C#, Java, JavaFX, WPF, Python, Microsoft Lists, GraphQL and Power Automate
 
 ---
 
@@ -20,7 +18,7 @@ I'm currently transitioning from the **WAMP** stack to the **MERN** stack and bu
 ---
 
 ### 🧠 Currently Learning
-- 🟢 Advanced Node.js Patterns
+- 🟢 AI Driven/Supported development
 - 🌿 Advanced React
 - 📈 System Design and Scalable Architectures
 
@@ -42,7 +40,6 @@ I'm currently seeking:
 ---
 
 ### ⚡ Fun Facts
-- 🥊 I'm training to be an amateur boxer and aim to debut in the next two years.
 - 🏃‍♂️ I enjoy running, cycling, boxing, and weekend 5KM runs.
 - 🎵 I love music, movies, and reading, especially about tech, psychology and personal development.
 
