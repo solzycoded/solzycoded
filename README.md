@@ -1,7 +1,7 @@
 ## Hi there, I'm Solomon 👋
 
 ### 💻 About Me
-I'm a passionate **Software Developer** with a Master's degree in Software Development from Coventry University. My focus lies in **Back-End Development**, and I bring experience across several tech stacks including:
+I'm a passionate **Software Developer** with a Master's degree in Software Development from Coventry University. I'm also a certified Scrum Master (PSM I) and i possess ITIL 4 foundation in IT Service Management certification. My primary focus lies in **Back-End Development**, and I bring experience across several tech stacks including:
 
 - 🔧 **Proficient in:** PHP, Laravel, JavaScript, Typescript, Node.js, Express, MySQL, MongoDB, PostgreSQL
 - ⚙️ **Experienced with:** REST APIs, GraphQL, CI/CD pipelines, TDD, Database design, SCRUM, Azure DevOps
